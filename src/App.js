@@ -5,7 +5,7 @@ function App() {
     <>
       <h1>Hallo verden!</h1>
       <p>
-        Jeg er en veldig enkel React-app som du kan endre og leke med som du vil.
+        Nå er jeg på branchen som heter develop!
       </p>
     </>
   )
